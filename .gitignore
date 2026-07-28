@@ -1,0 +1,22 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Build outputs
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.tmp
+
+# Logs
+*.log
